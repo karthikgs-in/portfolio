@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Karthik GS  
-M.Tech in AI & Data Science | 9.89 CGPA | Focus on ML, DL, and MLOps
+M.Tech in AI & Data Science | 9.89 CGPA | Focus on ML, DL, and GenAI
 
 ## 🎓 Course Projects
 - 🧬 [Disease Prediction from Chest X-rays](https://github.com/karthikgs-in/chestxray-predictor)  
